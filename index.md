@@ -2,6 +2,13 @@
 
 ---
 
+### Exploratory Data Analysis Projects 
+
+[Project 1 Marketing Campaign Analysis](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
 ### Data Analysis & Visualization Projects 
 
 [Project 1 Dimensionality Reduction](/sample_page)
