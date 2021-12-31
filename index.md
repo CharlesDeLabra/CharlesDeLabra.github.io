@@ -2,13 +2,6 @@
 
 ---
 
-### Exploratory Data Analysis Projects 
-
-[Project 1 Marketing Campaign Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 ### Data Analysis & Visualization Projects 
 
 [Project 1 Dimensionality Reduction](/sample_page)
@@ -57,12 +50,18 @@
 
 ---
 
-### Recommendation Systems  Projects 
+### Exploratory Data Analysis Projects 
 
-[Project 1 Recommendation Systems](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Project 1 Marketing Analysis Campaign](https://charlesdelabra.github.io/EDA-Marketing-Campaign/)
 
 ---
+
+### Recommendation Systems  Projects 
+
+- [Project 1 Recommendation Systems](http://example.com/)
+
+---
+
 
 
 
