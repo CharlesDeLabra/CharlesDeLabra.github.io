@@ -2,6 +2,17 @@
 
 ---
 
+### Regression Prediction Problem
+
+[Project: Used Cars Price Prediction ](https://github.com/CharlesDeLabra/Used-Cars-Regression-Model)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 2 Clustering](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
 ### Data Analysis & Visualization Projects 
 
 [Project 1 Dimensionality Reduction](/sample_page)
