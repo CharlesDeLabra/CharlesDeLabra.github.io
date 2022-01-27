@@ -10,7 +10,7 @@
   <h3 align="center">Used Cars Regression Model Results</h3>
   <p align="center">
 </p>
-
+---
 
 [Project 2 Boston House Price Prediction](https://github.com/CharlesDeLabra/Boston-House-Price-Prediction)
 <p align="center">
