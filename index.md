@@ -6,7 +6,7 @@
 
 [Project: Used Cars Price Prediction ](https://github.com/CharlesDeLabra/Used-Cars-Regression-Model)
 <p align="center">
-    <img src="https://github.com/CharlesDeLabra/Used-Cars-Regression-Model/blob/main/imagen/foto1.png?raw=true" alt="Logo" width=600 height=360>
+    <img src="https://github.com/CharlesDeLabra/Used-Cars-Regression-Model/blob/main/imagen/foto1.png?raw=true" alt="Logo" width=800 height=360>
   <h3 align="center">Used Cars Regression Model Results</h3>
   <p align="center">
 
