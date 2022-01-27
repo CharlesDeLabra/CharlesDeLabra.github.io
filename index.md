@@ -12,7 +12,10 @@
 
 ---
 [Project 2 Boston House Price Prediction](https://github.com/CharlesDeLabra/Boston-House-Price-Prediction)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<p align="center">
+    <img src="https://github.com/CharlesDeLabra/Used-Cars-Regression-Model/blob/main/imagen/foto1.png?raw=true" alt="Logo" width=800 height=360>
+  <h3 align="center">Boston Houses Price Prediction Results</h3>
+  <p align="center">
 
 ---
 
