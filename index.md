@@ -5,7 +5,7 @@
 ### Regression Prediction Problem
 
 [Project: Used Cars Price Prediction ](https://github.com/CharlesDeLabra/Used-Cars-Regression-Model)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/CharlesDeLabra/Used-Cars-Regression-Model/blob/main/imagen/cars4u.png?raw=true" alt="Logo" width=72 height=72>
 
 ---
 [Project 2 Clustering](/pdf/sample_presentation.pdf)
