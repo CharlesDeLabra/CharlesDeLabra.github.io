@@ -11,7 +11,7 @@
   <p align="center">
 
 ---
-[Project 2 Boston House Price Prediction](/pdf/sample_presentation.pdf)
+[Project 2 Boston House Price Prediction](https://github.com/CharlesDeLabra/Boston-House-Price-Prediction)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
