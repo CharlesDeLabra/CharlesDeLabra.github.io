@@ -27,7 +27,7 @@
 [Project 1: Housing Number Recognition with ANN ](https://charlesdelabra.github.io/Housing-Number-recognition-with-ANN/)
 <p align="center">
     <img src="https://github.com/CharlesDeLabra/Housing-Number-recognition-with-ANN/blob/main/images/Merged_document.png?raw=true" alt="Logo" width=800 height=460>
-  <h3 align="center">House Digit Classifier Model Results</h3>
+  <h3 align="center"> ANN House Digit Classifier Model Results</h3>
   <p align="center">
   </p>
 </p>
@@ -35,7 +35,7 @@
 [Project 2: Housing Number Recognition with CNN ](https://charlesdelabra.github.io/CNN-Housing-Number-Digit-Recognition/)
 <p align="center">
     <img src="https://github.com/CharlesDeLabra/CNN-Housing-Number-Digit-Recognition/blob/main/images/Merged_document.png?raw=true" alt="Logo" width=800 height=460>
-  <h3 align="center">House Digit Classifier Model Results</h3>
+  <h3 align="center">CNN House Digit Classifier Model Results</h3>
   <p align="center">
   </p>
 </p>
