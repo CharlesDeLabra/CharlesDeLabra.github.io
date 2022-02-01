@@ -32,6 +32,14 @@
   </p>
 </p>
 
+[Project 2: Housing Number Recognition with CNN ](https://charlesdelabra.github.io/CNN-Housing-Number-Digit-Recognition/)
+<p align="center">
+    <img src="https://github.com/CharlesDeLabra/CNN-Housing-Number-Digit-Recognition/blob/main/images/Merged_document.png?raw=true" alt="Logo" width=800 height=460>
+  <h3 align="center">House Digit Classifier Model Results</h3>
+  <p align="center">
+  </p>
+</p>
+
 ---
 ### Exploratory Data Analysis Projects 
 
