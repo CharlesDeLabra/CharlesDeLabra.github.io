@@ -2,9 +2,9 @@
 
 ---
 
-### Regression Prediction Problem
+### Regression Prediction Problems
 
-[Project: Used Cars Price Prediction ](https://charlesdelabra.github.io/Used-Cars-Regression-Model/)
+[Project 1: Used Cars Price Prediction ](https://charlesdelabra.github.io/Used-Cars-Regression-Model/)
 <p align="center">
     <img src="https://github.com/CharlesDeLabra/Used-Cars-Regression-Model/blob/main/imagen/MergedImages.png?raw=true" alt="Logo" width=800 height=360>
   <h3 align="center">Used Cars Regression Model Results</h3>
@@ -20,8 +20,17 @@
   </p>
 </p>
 
+---
 
+### Neural Networks Problems
 
+[Project 1: Housing Number Recognition with ANN ](https://charlesdelabra.github.io/Housing-Number-recognition-with-ANN/)
+<p align="center">
+    <img src="https://github.com/CharlesDeLabra/Housing-Number-recognition-with-ANN/blob/main/images/Merged_document.png?raw=true" alt="Logo" width=800 height=360>
+  <h3 align="center">House Digit Classifier Model Results</h3>
+  <p align="center">
+  </p>
+</p>
 
 ---
 ### Exploratory Data Analysis Projects 
